@@ -1,3 +1,4 @@
 # information
 Information for Mathematical Base Defenders
-to be filled because the dev is lazy
+
+[BUG REPORTS AND FEATURE REQUESTS GO ON A DIFFERENT REPOSITORY WHICH CAN BE FOUND BY CLICKING HERE](https://github.com/mathematicalbasedefenders.com/issuetracker)
