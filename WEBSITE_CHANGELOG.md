@@ -1,3 +1,24 @@
+## 0.2.9
+23 January 2022
+
+Fixed an important bug because the Game Master is incompotent at fixing bugs and his skillset is not that far.
+
+---
+## 0.2.8
+22 January 2022
+
+<strong>Note: This website version was not released because of a critical bug that is now fixed in version 0.2.9</strong>
+
+
+Made Statistics and Users page look nicer for both known players and unknown players.
+
+Open Source licenses loading speeds are now extremely fast, and now includes every dependecy of the modules this website uses.
+
+Names on Leaderboards are now colored according to the player's rank.
+
+Minor changes and improvements.
+
+---
 ## 0.2.7
 13 January 2022
 
