@@ -1,3 +1,12 @@
+## 0.3.0-alpha.6
+23 January 2022
+
+New leveling system.
+
+Bug fixes and minor improvements.
+
+---
+
 ## 0.3.0-alpha.5
 13 January 2022
 
