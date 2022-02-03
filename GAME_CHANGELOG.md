@@ -1,5 +1,5 @@
 ## 0.3.0-alpha.7
-3 Feburary 2022
+3 February 2022
 
 New toast notification system. (These only show when you click on the Statistics button or someone gets Top 50 for now.)
 
