@@ -1,3 +1,9 @@
+## 0.2.10
+3 February 2022
+
+Security improvements and bug fixes.
+
+---
 ## 0.2.9
 23 January 2022
 
