@@ -1,5 +1,5 @@
 ## 0.2.11
-3 February 2022
+20 February 2022
 
 Added Easy Mode leaderboards.
 
