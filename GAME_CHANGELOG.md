@@ -1,3 +1,23 @@
+## 0.3.0-alpha.8
+20 February 2022
+
+New Easy Mode.
+
+In Easy Mode:
+
+- Combo time is 10 seconds instead of 5 seconds.
+
+- The enemy spawn chance is 2.5× more rare than Standard Mode.
+
+- Every enemy is 50% slower than Standard Mode.
+
+- Only a maximum of 5 enemies can appear on the playfield.
+
+- Only 50% Experience Points is awarded compared to the Standard Mode.
+
+
+---
+
 ## 0.3.0-alpha.7
 3 February 2022
 
