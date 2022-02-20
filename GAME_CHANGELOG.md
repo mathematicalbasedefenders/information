@@ -4,7 +4,6 @@
 New Easy Mode.
 
 In Easy Mode:
-
 - Combo time is 10 seconds instead of 5 seconds.
 
 - The enemy spawn chance is 2.5× more rare than Standard Mode.
