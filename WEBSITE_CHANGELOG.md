@@ -1,3 +1,9 @@
+## 0.2.12
+16 March 2022
+
+Error messages will now be displayed on the same page.
+
+---
 ## 0.2.11
 20 February 2022
 
