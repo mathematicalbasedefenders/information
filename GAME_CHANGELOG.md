@@ -1,3 +1,14 @@
+## 0.3.0-alpha.9
+16 March 2022
+
+New multipliers for combos in Singleplayer. For more information why this change was made, read this: https://mistertfy64.com/blog/post/2
+
+Main menu now shows your general information if you logged in. If you haven't logged in, it will tell you to do so.
+
+Bug fixes and minor improvements.
+
+---
+
 ## 0.3.0-alpha.8
 20 February 2022
 
