@@ -1,3 +1,17 @@
+## 0.3.0-alpha.11
+18 March 2022
+
+Fixed a bug with the rewritten code.
+
+---
+
+## 0.3.0-alpha.10
+17 March 2022
+
+Rewrote some code.
+
+---
+
 ## 0.3.0-alpha.9
 16 March 2022
 
