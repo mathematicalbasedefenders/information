@@ -1,3 +1,9 @@
+## 0.2.13
+19 March 2022
+
+Added an award that Mathematical Base Defenders won to the home page. That's it. (makes the game much more reputable)
+
+---
 ## 0.2.12
 16 March 2022
 
