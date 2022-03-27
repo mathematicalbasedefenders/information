@@ -1,3 +1,18 @@
+## 0.3.0-alpha.12
+27 March 2022
+
+**New Features**
+
+Custom Singleplayer Mode. It's pretty much self-explanatory. Scores will not be submitted nor you will earn experience points in Custom Singleplayer Mode.
+
+Every time someone gets a score on the Top 50 (Easy or Standard Singleplayer), a message will be sent to the [Discord Server](https://discord.gg/tJdwzjSgHh).
+
+**Changes**
+
+Bug fixes.
+
+---
+
 ## 0.3.0-alpha.11
 18 March 2022
 
@@ -87,11 +102,15 @@ Bug fixes, improvements, and server-side changes and improvements.
 ---
 ## 0.3.0-alpha.1
 24 December 2021
-#### **New Features**
+
+**New Features**
+
 You can now set a picture to be the background for EVERY enemy.
 
 Pressing Tab now shows you a status bar.
-#### **Changes**
+
+**Changes**
+
 Removed the text compression algorithm, making the game almost 20x faster and 3x more expensive. (bruh)
 
 Bug fixes, improvements, and server-side changes and improvements.
@@ -100,13 +119,14 @@ Bug fixes, improvements, and server-side changes and improvements.
 ## 0.3.0-alpha
 26 November 2021
 
-#### **New Features**
+**New Features**
 
 Multiplayer*!!!!!!!!!!!!
 
 *Please note that the game is only developed by 1 person, therefore, only 1 person tested it. Multiplayer is also in its very early stage. If there is a bug or a problem (there probably will), please [report it to the Game Master!](https://github.com/mathematicalbasedefenders/issuetracker)
 
-#### **Changes**
+**Changes**
+
 When playing the game at a weird window size (e.g. width is lower than height), the game will be centered instead of staying at the top.
 
 Bug fixes, improvements, and server-side changes and improvements.
