@@ -1,3 +1,15 @@
+## 0.2.15
+5 April 2022
+
+Bug fixes.
+
+---
+## 0.2.14
+4 April 2022
+
+Added more information on the Leaderboards.
+
+---
 ## 0.2.13
 19 March 2022
 
