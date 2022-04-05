@@ -1,3 +1,16 @@
+## 0.3.0-alpha.13
+5 April 2022
+
+**New Features**
+
+Personal bests and the Leaderboards now saves and shows other stats of your game rather than just the scores.
+
+**Changes**
+
+Bug fixes.
+
+---
+
 ## 0.3.0-alpha.12
 27 March 2022
 
