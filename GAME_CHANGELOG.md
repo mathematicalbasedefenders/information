@@ -1,3 +1,20 @@
+## 0.3.0-alpha.14
+28 May 2022
+
+**New Features**
+
+Discord Server webhooks now display other stats of your Top 50 game rather than just the scores.
+
+**Changes**
+
+Made it explicitly clear that Mathematical Base Defenders is in development.
+
+Huge server-side refactoring.
+
+Bug fixes.
+
+---
+
 ## 0.3.0-alpha.13
 5 April 2022
 
