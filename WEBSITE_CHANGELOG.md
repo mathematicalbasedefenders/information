@@ -1,3 +1,17 @@
+## 0.4.1
+20 June 2022
+
+Bug fixes.
+
+---
+## 0.4.0
+20 June 2022
+
+New public API.
+
+The website has also been written to use the new public API.
+
+---
 ## 0.3.1
 16 May 2022
 
