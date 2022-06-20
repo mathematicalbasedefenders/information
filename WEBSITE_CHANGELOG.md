@@ -9,7 +9,7 @@ Bug fixes.
 
 New public API.
 
-The website has also been written to use the new public API.
+The website has also been rewritten to use the new public API.
 
 ---
 ## 0.3.1
