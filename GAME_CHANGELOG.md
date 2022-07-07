@@ -1,3 +1,14 @@
+## 0.3.0-beta
+7 July 2022
+
+*Note: This update is big, and will likely cause problems. If you find problems, please report them to the Game Master.*
+
+**Changes**
+
+Changed WebSocket implementation, therefore, code is rewritten.
+
+---
+
 ## 0.3.0-alpha.14
 28 May 2022
 
