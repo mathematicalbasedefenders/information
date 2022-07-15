@@ -1,3 +1,27 @@
+## 0.4.5
+15 July 2022
+
+Bug fixes.
+
+---
+## 0.4.4
+11 July 2022
+
+Bug fixes.
+
+---
+## 0.4.3
+11 July 2022
+
+Bug fixes.
+
+---
+## 0.4.2
+9 July 2022
+
+Bug fixes.
+
+---
 ## 0.4.1
 20 June 2022
 
