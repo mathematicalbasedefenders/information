@@ -1,3 +1,16 @@
+## 0.3.0-beta.1
+14 August 2022
+
+**New Features**
+
+You may now report users. Note that you must be registered, haven't reported someone in the last 5 minutes, and actions will be taken on your account if you misuse it. You can always send an e-mail if you don't want to register and would like to report.
+
+**Changes**
+
+Under your and your opponents' game instance(s), names are now colored according to rank.
+
+
+---
 ## 0.3.0-beta
 7 July 2022
 
