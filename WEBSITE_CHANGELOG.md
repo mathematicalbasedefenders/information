@@ -1,3 +1,16 @@
+## 0.4.7
+14 August 2022
+
+Added more messages saying that Mathematical Base Defenders is not a real math tutor.
+
+Removed the sole award the game got from the website.
+
+---
+## 0.4.6
+15 July 2022
+
+Added advertisements. They only show up at the front page. Ad placement is subject to change at anytime.
+
 ## 0.4.5
 15 July 2022
 
