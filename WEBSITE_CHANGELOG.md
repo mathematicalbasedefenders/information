@@ -1,3 +1,11 @@
+## 0.4.8
+20 August 2022
+
+Fixed a major bug with the API.
+
+Removed in-between-page-loads ads (too annoying).
+
+---
 ## 0.4.7
 14 August 2022
 
