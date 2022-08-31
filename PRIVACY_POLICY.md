@@ -44,7 +44,4 @@ Mathematical Base Defenders is designed for all ages. However, if you are under 
 This website uses cookies.
 
 ## 7. Non-sensitive Data
-
-
-## 8. Implementation Details
-Your data (e-mail address, username, password) is stored 
+Upon getting a new personal best, if you are registered, it will be stored in your account, which is accessible in the public API.
