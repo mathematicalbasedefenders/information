@@ -142,7 +142,7 @@ If you kill an another enemy within the timer period, the timer resets (to 5 or 
 
 Developer/Game Master: mistertfy64 ([https://mistertfy64.com](https://mistertfy64.com))
 
-Issue tracker (feature requests also accepted): [https://github.com/mathematicalbasedefenders.com/issuetracker](https://github.com/mathematicalbasedefenders.com/issuetracker)
+Issue tracker (feature requests also accepted): [https://github.com/mathematicalbasedefenders/issuetracker](https://github.com/mathematicalbasedefenders/issuetracker)
 
 Remaining for this file: Experience and Technical
 
