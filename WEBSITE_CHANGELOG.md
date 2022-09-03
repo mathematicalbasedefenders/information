@@ -19,6 +19,7 @@ Removed the sole award the game got from the website.
 
 Added advertisements. They only show up at the front page. Ad placement is subject to change at anytime.
 
+---
 ## 0.4.5
 15 July 2022
 
