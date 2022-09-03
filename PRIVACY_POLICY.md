@@ -44,4 +44,4 @@ Mathematical Base Defenders is designed for all ages. However, if you are under 
 This website uses cookies.
 
 ## 7. Non-sensitive Data
-Upon getting a new personal best, if you are registered, it will be stored in your account, which is accessible in the public API.
+Upon getting a new personal best, if you are registered, it will be stored in your account, which is accessible in the public API. This information includes game data, which is tied to your account. It can't be deleted. However, the game data will not contain any sensitive information.
