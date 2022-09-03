@@ -1,7 +1,8 @@
 Latest Revision: 2022-08-31
 
-** Before you read, please note that the game is in its very early development stage. Therefore, the privacy policy may change quickly. Thank you for understanding! **
+Before you read, please note that the game is in its very early development stage. Therefore, the privacy policy may change quickly (as new practices are adopted or new features are added). Thank you for understanding!
 
+---
 ## 0. Introduction
 Mathematical Base Defenders is an online math game designed for people of all ages. But in order for us to do that, The service has to collect and store some of your data. However, we will try to be as transparent on our data collection processes as possible, and this privacy policy may help fulfill that goal.
 
