@@ -54,7 +54,7 @@ The keybinds for each tile can be changed. Note that the numberpad will always b
 | d | `KeyD` | (None) |
 
 ---
-#### Singleplayer
+### Singleplayer
 
 One of the modes in Mathematical Base Defenders is Singleplayer.
 
@@ -69,7 +69,7 @@ Mathematical Base Defenders keeps track of your personal best score. In addition
 Only your best score is stored on the leaderboards and your account (Note from mistertfy64: This may change!!!). (i.e. you can only see your username once on the leaderboards.)
 
 ---
-#### Multiplayer
+### Multiplayer
 
 One of the modes in Mathematical Base Defenders is Multiplayer.
 
@@ -86,7 +86,7 @@ Be the last one standing to be the winner. The results of the current (or last d
 You can chat with other players in multiplayer rooms.
 
 ---
-#### Tiles
+### Tiles
 
 There are always 49 tiles in the game.
 
