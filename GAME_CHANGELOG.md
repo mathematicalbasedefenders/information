@@ -1,3 +1,26 @@
+## 0.3.0-beta.2
+11 September 2022
+
+New Feature: You can now earn experience points when playing Multiplayer games.
+
+- Currently, it has a flat rate of 1 experience point for every second you survive.
+- Additionally, winning a multiplayer game gives you 50% more experience points.
+
+New Feature: The game will now count the number of Multiplayer games you counted/won. You need to be registered for the game to count.
+
+New Feature: You can now control how much information is displayed in the user interface while in game.
+
+Change: Refactored some code, but it still looks terrible.
+
+Fix: Chat now goes in the "correct" direction now.
+
+Fix: Modal buttons should now look more good.
+
+Fix: Users can no longer send messages with whitespaces only.
+
+Fix: Removed the "Double Everything" ~~bug~~ event.
+
+---
 ## 0.3.0-beta.1
 14 August 2022
 
