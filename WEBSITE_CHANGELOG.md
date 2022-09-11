@@ -1,3 +1,15 @@
+## 0.4.9
+11 September 2022
+
+Change: Redesigned the user information page.
+
+Change: "Excess-text" pages now gets text from the [Information Repository](https://github.com/mathematicalbasedefenders/information).
+
+Fix: Password reset links in e-mails should now work correctly.
+
+Transparency Change: Added a `This website uses cookies` text at the bottom of the footer.
+
+---
 ## 0.4.8
 20 August 2022
 
