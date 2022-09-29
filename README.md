@@ -5,7 +5,9 @@ Information for Mathematical Base Defenders
 
 Question: Where is the issue tracker/tab?
 
-Answer: [https://github.com/mathematicalbasedefenders/issuetracker](https://github.com/mathematicalbasedefenders/issuetracker)
+~~Answer (before 2022-09-23): [https://github.com/mathematicalbasedefenders/issuetracker](https://github.com/mathematicalbasedefenders/issuetracker)~~
+
+Answer (2022-09-23): Mathematical Base Defenders is now open source. Make issue reports in the respective repositories.
 
 ---
 
