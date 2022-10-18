@@ -9,7 +9,9 @@ Change: Instead of Easy mode having a constant enemy limit, the enemy limit will
 
 Change: Added an intermission screen for non-custom Singleplayer game.
 
-Change: Game Instances can now be scaled and/or moved.
+Change: Added icons to main menu buttons.
+
+Change: Game Instances can now be scaled and/or moved (indirectly).
 
 Fix: Combo text incorrectly showing/hiding
 
