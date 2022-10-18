@@ -1,3 +1,29 @@
+## 0.3.0-beta.4
+18 October 2022
+
+New Experiemental Feature: Enemies can now be "stacked". This is merely just a visual change and doesn't *directly* affect gameplay. When this feature is enabled, overlapping enemies will instead be displayed in a stacked manner. This is to fight with the issue of enemies blocking requested values of other enemies.
+
+**Change: Slowed down the enemies on Easy and Standard Singleplayer again, this time by 75%**
+
+Change: Instead of Easy mode having a constant enemy limit, the enemy limit will now grow linearly, starting at 5 enemies, adding 1 to the limit every 30 seconds after 60 seconds, stopping at 25.
+
+Change: Added an intermission screen for non-custom Singleplayer game.
+
+Change: Game Instances can now be scaled and/or moved.
+
+Fix: Combo text incorrectly showing/hiding
+
+Fix: Skipping splash screen text is no longer limited to having to click the text instead of anywhere on the screen.
+
+---
+## 0.3.0-beta.3
+6 October 2022
+
+Change: Added keybind presets.
+
+Change: Added more items in user modals.
+
+---
 ## 0.3.0-beta.2
 11 September 2022
 
