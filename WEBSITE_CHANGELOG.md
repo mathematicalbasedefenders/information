@@ -1,3 +1,14 @@
+## 0.5.0-rc.1
+17 January 2023
+
+Change: Migrated most of the website to TypeScript.
+
+Change: Redesigned footer.
+
+Various bug fixes.
+
+
+---
 ## 0.4.9
 11 September 2022
 
