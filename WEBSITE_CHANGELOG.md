@@ -1,3 +1,11 @@
+## 0.5.0-rc.2
+18 January 2023
+
+Fix: Experience-to-next-level no longer shows `NaN` for players with 0 experience points.
+
+Fix: Footer links should now properly work.
+
+---
 ## 0.5.0-rc.1
 17 January 2023
 
