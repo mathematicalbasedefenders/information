@@ -7,6 +7,7 @@ Change: Revamped user interface.
 
 Change: Enemies now fall instead of moving left.
 
+---
 <details><summary>Tiled (Pre-Reversal) Era</summary>
   
 ## 0.3.0-beta.4
