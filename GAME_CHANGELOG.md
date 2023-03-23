@@ -1,3 +1,14 @@
+## 0.4.0-rc.1
+8 March 2023
+
+**Change: You now solve math equations instead of creating math equations on enemies.**
+
+Change: Revamped user interface.
+
+Change: Enemies now fall instead of moving left.
+
+<details><summary>Tiled (Pre-Reversal) Era</summary>
+  
 ## 0.3.0-beta.4
 18 October 2022
 
@@ -261,3 +272,4 @@ Fixed a bug with restoring settings.
 22 September 2021
 
 Initial release of Mathematical Base Defenders.
+<details>
