@@ -1,3 +1,19 @@
+## 0.4.0-rc.2
+25 March 2023
+
+Feature: The user information modal now shows the origin of the server you're connected to.
+
+Change: Disabled font ligatures.
+
+Change: Made the on screen keyboard use `−` (`\u2212`) instead of just a hyphen.
+
+Fix: Hopefully fixed the case where deleting a room might cause the whole app to crash.
+
+Fix: Fixed the buttons in the settings menu from having a top border
+
+Fix: When typing an answer with more than one minus sign, all minus signs instead of just the first minus sign will use `−` (`\u2212`) instead of a hyphen.
+
+---
 ## 0.4.0-rc.1
 8 March 2023
 
