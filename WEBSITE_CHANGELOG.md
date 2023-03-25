@@ -1,11 +1,18 @@
-## 0.5.0-rc.2
-18 January 2023
+## 0.5.0-rc.4
+25 March 2023
+
+Fixed: Going to a non-existent user's profile will no longer crash the app. ([#17](https://github.com/mathematicalbasedefenders/mathematicalbasedefenders.com/issues/17))
+
+---
+## 0.5.0-rc.3
+24 March 2023
 
 Fix: Experience-to-next-level no longer shows `NaN` for players with 0 experience points.
 
 Fix: Footer links should now properly work.
 
 ---
+<details><summary>Tiled (Pre-Reversal) Era</summary>
 ## 0.5.0-rc.1
 17 January 2023
 
@@ -249,3 +256,4 @@ Website "redesign".
 New content.
 
 Bug fixes.
+<details>
