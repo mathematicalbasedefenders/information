@@ -1,3 +1,17 @@
+## 0.4.0-rc.4
+9 April 2023
+
+Feature: Multiplayer
+
+Feature: An option for wider enemies. Use this if you have trouble reading text on square enemies.
+
+Change: Made enemy spawning more forgiving once again.
+
+Change: Added a "forced" enemy spawn clock. If no enemy has spawned for some time, an enemy will be spawned. This is to prevent your combo timer running out.
+
+Change: Added player names below playfields.
+
+---
 ## 0.4.0-rc.2
 25 March 2023
 
