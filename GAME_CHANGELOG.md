@@ -1,3 +1,9 @@
+## 0.4.0-rc.7
+17 April 2023
+
+Fix: Custom Singleplayer button now appears.
+
+---
 ## 0.4.0-rc.6
 17 April 2023 
 
