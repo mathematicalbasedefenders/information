@@ -1,3 +1,21 @@
+## 0.4.0-rc.6
+17 April 2023 
+
+Feature: Custom Singleplayer Mode
+
+- As of release, you can set your starting base health, the combo time, the enemy spawn trigger time, the enemy spawn trigger chance, the enemy speed and the forced enemy spawn trigger time. (All times are in milliseconds.)
+- Note that setting the values to be an invalid value, an extremely high value, or an extremely low value will cause the game to refuse to start.
+- Scores from custom game modes do not submit nor allow you to earn experience points.
+
+Fix: Added back favicon.
+
+---
+## 0.4.0-rc.5
+11 April 2023
+
+Fix: Made the text on the results screen not overflow.
+
+---
 ## 0.4.0-rc.4
 9 April 2023
 
