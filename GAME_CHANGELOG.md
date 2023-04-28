@@ -1,7 +1,29 @@
 ## 0.4.0-rc.7
-17 April 2023
+28 April 2023
 
-Fix: Custom Singleplayer button now appears.
+Feature: Client-side rendering
+- Before this release, all rendering is done only after the server sends out game data (around 60 times per second, ~36KB/s for empty Singleplayer field).
+  - This may have caused problems for players with slow internet/when there is high traffic, due to the rendering function only being able to trigger when data is received from the server.
+- This release makes it so that the browser can now render game data by itself without having to rely on the server, while still receiving data from the server in order to synchronize the game state between the server and the browser.
+  - In other words, the browser will now calculate what the next frame would look like without needing data from the server, and will render that.
+  - Because of this functionality and other factors, the server now sends out game data at 5 times per second, hopefully to reduce bandwidth usage.
+- This is experimental, but it will probably be kept to fix performance issues, but it might create new problems. If that happens, please contact mistertfy64 and/or file an issue.
+
+
+Change: Slowed down the enemy speed from 0.15 units per second to 0.1 units per second.
+
+
+Change: Doubled the enemy speed in Easy Singleplayer mode. (now 0.05 units per second)
+
+
+Change: Temporarily disabled Beautiful Score Display.
+
+
+Change: Added a notice when connection is lost.
+
+
+Change: A database is no longer required for selfhosting/contributing.
+- Note that without a database, user accounts and score submissions can not be used.
 
 ---
 ## 0.4.0-rc.6
