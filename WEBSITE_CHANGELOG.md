@@ -1,3 +1,9 @@
+## 0.5.0
+29 June 2023
+
+Change: Massive website frontend redesign.
+
+---
 ## 0.5.0-rc.4
 25 March 2023
 
