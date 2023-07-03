@@ -1,3 +1,9 @@
+## 0.5.1
+3 July 2023
+
+Fix: Layout fixes.
+
+---
 ## 0.5.0
 29 June 2023
 
