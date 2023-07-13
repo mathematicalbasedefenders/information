@@ -1,3 +1,11 @@
+## 0.4.0-rc.8 (1,000-day anniversary update)
+13 July 2023
+
+Feature: Score-gain Popups
+
+Feature: Pop-up modals
+
+---
 ## 0.4.0-rc.7
 28 April 2023
 
