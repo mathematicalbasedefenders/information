@@ -1,3 +1,9 @@
+## 0.5.2
+14 July 2023
+
+Fix: Made the `Play` button on the homepage... work.
+
+---
 ## 0.5.1
 3 July 2023
 
