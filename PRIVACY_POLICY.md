@@ -74,4 +74,5 @@ This privacy only applies to this site and its subdomains. If you visit a differ
 ## 8. Inquiries
 
 If you think we've missed something in the Privacy Policy, or have any further questions, please e-mail `support@mathematicalbasedefenders.com`.
+
 ---
