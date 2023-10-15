@@ -1,3 +1,11 @@
+## 0.5.3
+15 October 2023
+
+Change: Made the words on the homepage more positive.
+
+Change: Added Google Analytics.
+
+---
 ## 0.5.2
 14 July 2023
 
