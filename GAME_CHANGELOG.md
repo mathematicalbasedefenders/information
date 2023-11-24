@@ -1,3 +1,28 @@
+## 0.4.0
+24 November 2023
+
+_This update is very large and will likely cause problems. If there are problems present, please [create an issue on the GitHub repository](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/issues)._
+
+Feature: Singleplayer gamemodes (both Easy Singleplayer and Standard Singleplayer) now have new mechanics:
+
+- Levels: Kill enough enemies to advance a level. In higher levels, enemy spawn time interval decreases, enemy moves faster, decreases base health regeneration amount, but you get more points.
+- Base Health Regeneration: Every second, if your base health is below the maximum limit, it will regenerate.
+
+Feature: Added a 3-mode current level display in Singleplayer games.
+
+Change: Changed the UI on larger screens: added a logo, made buttons have a different layout, etc. (Note: Smaller screens still have a similar layout before this update.)
+
+Change: *Finally* added a 404 page.
+
+Change: Most game statistics (excl. score) now show 3 decimal places.
+
+Change: Added a [CSS reseter](https://necolas.github.io/normalize.css/).
+
+Change: Refactored code.
+
+Change: Added a link to the accompanying website on the Welcome pop up.
+
+---
 ## 0.4.0-rc.8 (1,000-day anniversary update)
 13 July 2023
 
