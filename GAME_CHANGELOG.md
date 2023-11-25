@@ -1,3 +1,13 @@
+## 0.4.1
+25 November 2023
+
+Fix: Made authentication work again. Sorry about that!
+
+Fix: Game Over screen no longer shows `Global Rank #0`.
+
+Fix: Game Over screen now show correct number of enemies spawned.
+
+---
 ## 0.4.0
 24 November 2023
 
