@@ -1,3 +1,11 @@
+## 0.4.2
+26 November 2023
+
+Fix: Enemies' increasing speed now show properly.
+
+Fix: Custom Singleplayer games' base health will now no longer be set to 100 if set to something else.
+
+---
 ## 0.4.1
 25 November 2023
 
