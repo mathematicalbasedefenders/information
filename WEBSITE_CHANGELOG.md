@@ -1,3 +1,9 @@
+## 0.5.4
+21 December 2023
+
+Change: Redesigned homepage.
+
+---
 ## 0.5.3
 15 October 2023
 
