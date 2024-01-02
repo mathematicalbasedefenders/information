@@ -1,3 +1,19 @@
+## 0.4.4
+2 January 2024
+
+Fix: Percentage to next level should update most of the time instead of racing against the database write operation now.
+
+Fix: Custom Singleplayer Intermission buttons should not have extra borders now.
+
+---
+## 0.4.3
+1 December 2023
+
+Change: Add more information to Game Over screen.
+
+Fix: New score submissions will now display APM.
+
+---
 ## 0.4.2
 26 November 2023
 
