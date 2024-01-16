@@ -1,3 +1,35 @@
+## 0.4.5
+16 January 2024
+
+Feature: Global Alerts
+- These alerts are sent to all players when it is sent.
+- For now, these only show up when someone gets a new personal best AND a Top 100 global rank.
+
+Feature: Discord Server Alerts
+- Just like Global Alerts, everytime someone gets a new personal best AND a Top 100 global rank, a message will be sent in the official [Discord server](https://discord.gg/pDTZvrTXm9)
+
+Feature: Enemy Color Palettes
+- You can now select between 3 different enemy color palettes, so that the enemy colors can "go in" together.
+- Of course, the old enemy color options are still available.
+
+Feature: Adjustable Enemy Scale
+- You can now adjust the enemy scale (both the enemy and its text) from 100% up to 200%. This is to prevent unreadable text.
+
+Change: Easy Singleplayer's enemy spawn interval is now 150ms (from 250ms).
+
+Change: Easy Singleplayer's enemy spawn chance is now 7.5% (from 5%).
+
+Change: Some buttons have had their text enlarged.
+
+Change: Toast notifications (on the bottom right) now have different colored borders based on meaning.
+
+Change: Enemies should now slide down/spawn from above the viewport, not spawned below the top.
+
+Fix: Game Over screen results shouldn't be cut off if now.
+
+Fix: Made text on some buttons wrap instead of clip. 
+
+---
 ## 0.4.4
 2 January 2024
 
