@@ -1,3 +1,11 @@
+## 0.4.6
+30 January 2024
+
+Change: Enlarged text in many areas.
+
+Fix: Other players leaving multiplayer rooms should no longer display `#0 ??? ???` ranks
+
+---
 ## 0.4.5
 16 January 2024
 
