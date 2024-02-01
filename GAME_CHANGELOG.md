@@ -1,3 +1,13 @@
+## 0.4.7
+1 February 2024
+
+Change: Changed the default setting value for enemy width:height ratio from 1:1 to 2:1
+
+Change: Allowed Enemy Speed Coefficient in Custom Singleplayer Mode to go down to 0.25 instead of 1.
+
+Fix: Fixed a bug that clogs up logs.
+
+---
 ## 0.4.6
 30 January 2024
 
