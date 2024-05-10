@@ -13,7 +13,7 @@ Answer (2022-09-23): Mathematical Base Defenders is now open source. Make issue 
 
 Question: How do I contact the developer directly?
 
-Answer: Either `mistertfy64#0001` on Discord or mistertfy64's e-mail. mistertfy64 will probably not be responding to serious messages on his social media accounts.
+Answer: Either `mistertfy64` on Discord or mistertfy64's e-mail. mistertfy64 will probably not be responding to serious messages on his social media accounts.
 
 ---
 
