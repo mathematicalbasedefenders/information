@@ -1,3 +1,11 @@
+## 0.4.8
+2024-05-10
+
+Feature: Added arrow key navigation to user interface.
+
+Feature: Brought back Beautiful Score Display and made it more beautiful.
+
+---
 ## 0.4.7
 2024-02-01
 
