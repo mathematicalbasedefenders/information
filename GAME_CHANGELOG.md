@@ -202,7 +202,7 @@ Change: Enemies now fall instead of moving left.
 
 ---
 
-<details><summary>Tiled (Pre-Reversal) Era</summary>
+<details><summary>Tiled (Pre-Reversal/Old Gameplay) Era</summary>
   
 ## 0.3.0-beta.4
 2022-10-18

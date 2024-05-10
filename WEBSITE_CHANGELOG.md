@@ -44,7 +44,7 @@ Fix: Experience-to-next-level no longer shows `NaN` for players with 0 experienc
 Fix: Footer links should now properly work.
 
 ---
-<details><summary>Tiled (Pre-Reversal) Era</summary>
+<details><summary>Tiled (Pre-Reversal/Old Gameplay) Era</summary>
 ## 0.5.0-rc.1
 2023-01-17
 
