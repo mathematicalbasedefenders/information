@@ -1,5 +1,5 @@
 ## 0.4.7
-1 February 2024
+2024-02-01
 
 Change: Changed the default setting value for enemy width:height ratio from 1:1 to 2:1
 
@@ -9,7 +9,7 @@ Fix: Fixed a bug that clogs up logs.
 
 ---
 ## 0.4.6
-30 January 2024
+2024-01-30
 
 Change: Enlarged text in many areas.
 
@@ -17,7 +17,7 @@ Fix: Other players leaving multiplayer rooms should no longer display `#0 ??? ??
 
 ---
 ## 0.4.5
-16 January 2024
+2024-01-16
 
 Feature: Global Alerts
 - These alerts are sent to all players when it is sent.
@@ -49,7 +49,7 @@ Fix: Made text on some buttons wrap instead of clip.
 
 ---
 ## 0.4.4
-2 January 2024
+2024-01-02
 
 Fix: Percentage to next level should update most of the time instead of racing against the database write operation now.
 
@@ -57,7 +57,7 @@ Fix: Custom Singleplayer Intermission buttons should not have extra borders now.
 
 ---
 ## 0.4.3
-1 December 2023
+2023-12-01
 
 Change: Add more information to Game Over screen.
 
@@ -65,7 +65,7 @@ Fix: New score submissions will now display APM.
 
 ---
 ## 0.4.2
-26 November 2023
+2023-11-26
 
 Fix: Enemies' increasing speed now show properly.
 
@@ -73,7 +73,7 @@ Fix: Custom Singleplayer games' base health will now no longer be set to 100 if 
 
 ---
 ## 0.4.1
-25 November 2023
+2023-11-25
 
 Fix: Made authentication work again. Sorry about that!
 
@@ -83,7 +83,7 @@ Fix: Game Over screen now show correct number of enemies spawned.
 
 ---
 ## 0.4.0
-24 November 2023
+2023-11-24
 
 _This update is very large and will likely cause problems. If there are problems present, please [create an issue on the GitHub repository](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/issues)._
 
@@ -108,7 +108,7 @@ Change: Added a link to the accompanying website on the Welcome pop up.
 
 ---
 ## 0.4.0-rc.8 (1,000-day anniversary update)
-13 July 2023
+2023-07-13
 
 Feature: Score-gain Popups
 
@@ -116,7 +116,7 @@ Feature: Pop-up modals
 
 ---
 ## 0.4.0-rc.7
-28 April 2023
+2023-04-28
 
 Feature: Client-side rendering
 - Before this release, all rendering is done only after the server sends out game data (around 60 times per second, ~36KB/s for empty Singleplayer field).
@@ -144,7 +144,7 @@ Change: A database is no longer required for selfhosting/contributing.
 
 ---
 ## 0.4.0-rc.6
-17 April 2023 
+2023-04-17 
 
 Feature: Custom Singleplayer Mode
 
@@ -156,13 +156,13 @@ Fix: Added back favicon.
 
 ---
 ## 0.4.0-rc.5
-11 April 2023
+2023-04-11
 
 Fix: Made the text on the results screen not overflow.
 
 ---
 ## 0.4.0-rc.4
-9 April 2023
+2023-04-09
 
 Feature: Multiplayer
 
@@ -176,7 +176,7 @@ Change: Added player names below playfields.
 
 ---
 ## 0.4.0-rc.2
-25 March 2023
+2023-03-25
 
 Feature: The user information modal now shows the origin of the server you're connected to.
 
@@ -192,7 +192,7 @@ Fix: When typing an answer with more than one minus sign, all minus signs instea
 
 ---
 ## 0.4.0-rc.1
-8 March 2023
+2023-03-08
 
 **Change: You now solve math equations instead of creating math equations on enemies.**
 
@@ -205,7 +205,7 @@ Change: Enemies now fall instead of moving left.
 <details><summary>Tiled (Pre-Reversal) Era</summary>
   
 ## 0.3.0-beta.4
-18 October 2022
+2022-10-18
 
 New Experiemental Feature: Enemies can now be "stacked". This is merely just a visual change and doesn't *directly* affect gameplay. When this feature is enabled, overlapping enemies will instead be displayed in a stacked manner. This is to fight with the issue of enemies blocking requested values of other enemies.
 
@@ -225,7 +225,7 @@ Fix: Skipping splash screen text is no longer limited to having to click the tex
 
 ---
 ## 0.3.0-beta.3
-6 October 2022
+2022-10-06
 
 Change: Added keybind presets.
 
@@ -233,7 +233,7 @@ Change: Added more items in user modals.
 
 ---
 ## 0.3.0-beta.2
-11 September 2022
+2022-09-11
 
 New Feature: You can now earn experience points when playing Multiplayer games.
 
@@ -256,7 +256,7 @@ Fix: Removed the "Double Everything" ~~bug~~ event.
 
 ---
 ## 0.3.0-beta.1
-14 August 2022
+2022-08-14
 
 **New Features**
 
@@ -269,7 +269,7 @@ Under your and your opponents' game instance(s), names are now colored according
 
 ---
 ## 0.3.0-beta
-7 July 2022
+2022-07-07
 
 *Note: This update is big, and will likely cause problems. If you find problems, please report them to the Game Master.*
 
@@ -280,7 +280,7 @@ Changed WebSocket implementation, therefore, code is rewritten.
 ---
 
 ## 0.3.0-alpha.14
-28 May 2022
+2022-05-28
 
 **New Features**
 
@@ -297,7 +297,7 @@ Bug fixes.
 ---
 
 ## 0.3.0-alpha.13
-5 April 2022
+2022-04-05
 
 **New Features**
 
@@ -310,7 +310,7 @@ Bug fixes.
 ---
 
 ## 0.3.0-alpha.12
-27 March 2022
+2022-03-27
 
 **New Features**
 
@@ -325,21 +325,21 @@ Bug fixes.
 ---
 
 ## 0.3.0-alpha.11
-18 March 2022
+2022-03-18
 
 Fixed a bug with the rewritten code.
 
 ---
 
 ## 0.3.0-alpha.10
-17 March 2022
+2022-03-17
 
 Rewrote some code.
 
 ---
 
 ## 0.3.0-alpha.9
-16 March 2022
+2022-03-16
 
 New multipliers for combos in Singleplayer. For more information why this change was made, read this: https://mistertfy64.com/blog/post/2
 
@@ -350,7 +350,7 @@ Bug fixes and minor improvements.
 ---
 
 ## 0.3.0-alpha.8
-20 February 2022
+2022-02-20
 
 New Easy Mode.
 
@@ -369,7 +369,7 @@ In Easy Mode:
 ---
 
 ## 0.3.0-alpha.7
-3 February 2022
+2022-02-03
 
 New toast notification system. (These only show when you click on the Statistics button or someone gets Top 50 for now.)
 
@@ -378,7 +378,7 @@ Bug fixes and minor improvements.
 ---
 
 ## 0.3.0-alpha.6
-23 January 2022
+2022-01-23
 
 New leveling system.
 
@@ -387,32 +387,32 @@ Bug fixes and minor improvements.
 ---
 
 ## 0.3.0-alpha.5
-13 January 2022
+2022-01-13
 
 Bug fixes.
 
 ---
 
 ## 0.3.0-alpha.4
-9 January 2022
+2022-01-09
 
 Made multiplayer look more real-time by adding other players' statuses on the screen. (Please note that this is in its first stage, and hasn't been tested lol, so it will probably break)
 
 ---
 ## 0.3.0-alpha.3
-3 January 2022
+2022-01-03
 
 Better support for non-PC devices or devices with weird screen resolutions.
 
 ---
 ## 0.3.0-alpha.2
-30 December 2021
+2021-12-30
 
 Bug fixes, improvements, and server-side changes and improvements.
 
 ---
 ## 0.3.0-alpha.1
-24 December 2021
+2021-12-24
 
 **New Features**
 
@@ -428,7 +428,7 @@ Bug fixes, improvements, and server-side changes and improvements.
 
 ---
 ## 0.3.0-alpha
-26 November 2021
+2021-11-26
 
 **New Features**
 
@@ -444,13 +444,13 @@ Bug fixes, improvements, and server-side changes and improvements.
 
 ---
 ## 0.2.1
-23 October 2021
+2021-10-23
 
 Bug fixes. Improvements.
 
 ---
 ## 0.2.0
-23 September 2021
+2021-09-23
 
 New UI design.
 
@@ -458,13 +458,13 @@ You can know rebind keys. Note that one key can be used per tile, and each tile 
 
 ---
 ## 0.1.1
-23 September 2021
+2021-09-23
 
 Fixed a bug with restoring settings.
 
 ---
 ## 0.1.0
-22 September 2021
+2021-09-22
 
-Initial release of Mathematical Base Defenders.
+Initial release of the web version of Mathematical Base Defenders.
 <details>
