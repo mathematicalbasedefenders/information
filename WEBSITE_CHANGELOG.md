@@ -1,3 +1,13 @@
+## 0.5.8
+2024-05-17
+
+Change: Rewrote the front page once again.
+
+Change: General frontend changes.
+
+Change: Rewrote the API backend to be more stable.
+
+---
 ## 0.5.4
 2023-12-21
 
@@ -45,6 +55,7 @@ Fix: Footer links should now properly work.
 
 ---
 <details><summary>Tiled (Pre-Reversal/Old Gameplay) Era</summary>
+
 ## 0.5.0-rc.1
 2023-01-17
 
