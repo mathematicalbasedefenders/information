@@ -1,3 +1,9 @@
+## 0.5.9
+2024-05-23
+
+Fix: Made the green "Play Now" button work.
+
+---
 ## 0.5.8
 2024-05-17
 
