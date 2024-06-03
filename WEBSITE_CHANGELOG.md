@@ -1,3 +1,11 @@
+## 0.5.10
+2024-06-03
+
+Change: Changed where transcational emails are sent from.
+
+Fix: Made call-to-action buttons not get cut off on smaller devices.
+
+---
 ## 0.5.9
 2024-05-23
 
