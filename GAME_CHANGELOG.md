@@ -1,3 +1,24 @@
+## 0.4.10
+2024-07-27
+
+Feature: Added a server system monitor that displays when the server is under high load.
+
+Stability Change: Made it so that once a socket sends too many messages in a time period, it instantly gets disconnected.
+- Therefore, **PLEASE DO NOT MASH YOUR KEYBOARD!**
+
+Fix: Fixed text and bar alignment issues on buttons.
+
+---
+## 0.4.9
+2024-06-17
+
+Feature: Added a “how-to-play” text while in game screen.
+
+- This will be hidden after 5 games in the session for the session, or you can hide it in the Settings menu.
+
+Change: Beautiful Score Display is now enabled by default.
+
+---
 ## 0.4.8
 2024-05-10
 
