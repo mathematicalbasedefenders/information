@@ -1,3 +1,11 @@
+## 0.4.11
+2024-08-01
+
+Stability Change: Made it so much more fewer WebSocket messages are sent, saving server resources and reducing chance of getting disconnected from keyboard mashing.
+- Examples of when a WebSocket message is not sent is when there are already eight characters on the input field.
+- However, the disconnection threshold has been lowered because of that. Still, try not to mash your keyboard without reason.
+
+---
 ## 0.4.10
 2024-07-27
 
