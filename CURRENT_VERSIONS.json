@@ -1,0 +1,10 @@
+{
+  "game": {
+    "version": "0.4.11",
+    "released": "2024-08-01"
+  }
+  "website": {
+    "version": "0.5.10"
+    "released": "2024-06-03"
+  }
+}
