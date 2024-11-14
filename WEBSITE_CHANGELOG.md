@@ -1,4 +1,6 @@
 ## 0.6.0
+2024-11-14
+
 ### Changes:
 - Front page has changed, now includes a preview clip of gameplay and many other things.
 - Leaderboards page has its layout changed. Additionally, username on leaderboards are also colorized according to player rank.
