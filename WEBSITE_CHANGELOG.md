@@ -1,3 +1,21 @@
+## 0.6.0
+### Changes:
+- Front page has changed, now includes a preview clip of gameplay and many other things.
+- Leaderboards page has its layout changed. Additionally, username on leaderboards are also colorized according to player rank.
+- User profile page has its layout changed. 
+- Changed the website's font from `Computer Modern Unicode Serif` to `Noto Sans`.
+- New registrants no longer get the `Tester` rank (as it has already been long enough since release).
+- Numbers with the whole part having more than 3 digits now have commas and now follow the `en-US` locale string conventions.
+- Time since event is now shown in "relative form" (e.g., `3 minutes ago`) instead of a timestamp.
+- Transactional e-mails are now sent in plain text.
+- Added more helpful messages instead of just `Invalid Request` if an API query can't be found or is invalid.
+- Removed the "slide-down" banners in favor of the JavaScript `alert()` modal.
+- Register page doesn't redirect back to index page if info is invalid or on an internal server error.
+
+These are just some of the many changes that is now in Website version `0.6.0`. And of course, things will break because I can't be bothered to test them throughly. But if something does break, mind helping me by [filing an issue](https://github.com/mathematicalbasedefenders/mathematicalbasedefenders.com/issues/new)? 
+—mistertfy64
+
+---
 ## 0.5.10
 2024-06-03
 
