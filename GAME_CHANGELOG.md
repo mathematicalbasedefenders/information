@@ -1,3 +1,37 @@
+## 0.4.12
+2024-11-24
+
+### New Features
+- Added a global chat, which is located opposite to the status tray. ([#101](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/101))
+  - There are currently no filters on the global chat, but things may change if they don't go as planned.
+- Added custom backgrounds. ([#106](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/106))
+- Added a quick method to log in while logged out. ([#107](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/107))
+### Changes
+- Changed it so that there is always at least one enemy on the playfield at any given time ([#109](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/109))
+  - In other words, if you killed every enemy on your playfield, one will immediately spawn.
+  > I believe this would make the "flow" harder to break as you no longer have to wait (e.g.) 2500ms for the next enemy and the "fun" harder to break when you lose all your Combo. —mistertfy64
+- Changed the UI's font to `Noto Sans`.
+  - However, gameplay font (enemies and input) are still `Computer Modern Unicode Serif`.
+- Added `en-US` locale formatting to most numbers.
+  - This includes commas on numbers. ([#103](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/103))
+  - Additionally, most floats are now 3 decimal places.
+- Made the Singleplayer Game Over screen look *slightly* better. ([#102](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/102))
+- Attempted to better harden authentication security ([#110](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/110))
+- Once again, due to location differences, rate-limiting that disconnects the socket limit is now quintupled.
+### Fixes
+- Fixed *some* of the keyboard navigation issues. ([#104](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/104))
+- Additional bug fixes not mentioned here.
+
+Well, this patch-level semver update took a "while" (3.5 months), didn't it? Sorry for the delay, the next update probably won't be that long, or not conforming to actually a patch-level semver update. This can be thought of as a large update, with changes to over 1,400 lines of code.
+
+A considerable amount of time, effort, and resources when into this update that only one person worked on. If you like the game, consider recommending it to your friends, or consider supporting me finacially on GitHub Sponsors! If you find a bug, you could also help me by filing a new issue so that I could take a look at it.
+
+Finally, while my code quality or game design quality isn't the best, I will be listening to your suggestions so that this game could improve. You can join the Discord server on the website or file an issue as well. 
+
+Thank you for reading this far!
+ —mistertfy64
+
+---
 ## 0.4.11
 2024-08-01
 
