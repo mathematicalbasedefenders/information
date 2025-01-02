@@ -1,4 +1,4 @@
-This Privacy Policy was last modified on December 20, 2024.
+This Privacy Policy was last modified on January 2, 2025.
 
 Mathematical Base Defenders collects some personal data from its users.
 
@@ -18,6 +18,7 @@ When you register for an account at `https://mathematicalbasedefenders.com`, Mat
 ## How Data is Collected
 Mathematical Base Defenders collects data through:
 - JavaScript scripts from Google Analytics
+- Fonts downloaded through Google Fonts
 - Proxied traffic data through Cloudflare
 - Entered information through the account registration/password reset forms at `https://mathematicalbasedefenders.com`
 - Cookies
@@ -30,18 +31,20 @@ For data collected through `https://mathematicalbasedefenders.com`:
 
 Data collected through Google Analytics and Cloudflare will be used for analytics and marketing.
 
+Data collected through Google Fonts will be used for security purposes.
+
 ## Disclosures to Third Parties of Collected Data
 For data collected through `https://mathematicalbasedefenders.com`:
 - E-mail address and selected password will not be disclosed.
 - Selected username will be disclosed publicly. (e.g., leaderboards) 
   
-Data collected through Google Analytics and Cloudflare will be disclosed privately to its respective data collectors.
+Data collected through Google and Cloudflare will be disclosed privately to its respective data collectors.
 
 ## Processing and Storage of Collected Data
 Data collected through `https://mathematicalbasedefenders.com` is processed by Mathematical Base Defenders' servers, and is stored in Mathematical Base Defenders' servers in MongoDB.
 Mathematical Base Defenders will also store game records (e.g., personal bests) of registered accounts together with the collected data used to register for the account.   
 
-Data collected through Google Analytics and Cloudflare are processed by its respective data collectors' servers, and is stored in the respective data collectors' servers.
+Data collected through Google and Cloudflare are processed by its respective data collectors' servers, and is stored in the respective data collectors' servers.
 
 ## Children
 This service does not normally collect data from users under 13 years of age. If data from someone under 13 years of age is given without consent from a guardian, Mathematical Base Defenders will try its best to delete said collected data.
