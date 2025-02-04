@@ -1,3 +1,12 @@
+## 0.6.1
+2025-02-04
+### Changes:
+Changed Twitter link text to X (Twitter).
+Administrator rank color is now #ff0000 (instead of #da1717).
+### Fixes:
+Made "compact-style" navigation bar apply to everypage instead of just the homepage.
+
+---
 ## 0.6.0
 2024-11-14
 
