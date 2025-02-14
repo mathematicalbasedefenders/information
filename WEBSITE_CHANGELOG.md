@@ -1,3 +1,9 @@
+## 0.6.2
+2025-02-14
+### Fixes:
+Accessing a user's profile page through the URL no longer requires the URL page to match the user's username casing exactly.
+
+---
 ## 0.6.1
 2025-02-04
 ### Changes:
