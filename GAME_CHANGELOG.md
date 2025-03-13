@@ -1,3 +1,27 @@
+## 0.4.13
+2025-03-13
+
+### New Features
+- (Default) Multiplayer mode's status "indicator", last game results "indicator", and chat has been redesigned and added with new features. ([#128](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/128))
+  - Names in the user interface are now colorized according to player rank. ([#124](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/124), [#125](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/125))
+  - You can now click on the username of a registered player's name in the user interface to view that player's stats. ([#123](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/123), [#126](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/126))
+    - This also works for your "name card" on the top-right corner of the screen.
+- Opening screen that now allows for easy authentication at game startup, instead of having to find it in the Settings menu. ([#120](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/120))
+    - Therefore, signing in is no longer possible in the Settings menu.
+### Changes
+- Changed how opponent playfields are rendered in (Default) Multiplayer mode. ([#127](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/127))
+- Toast notifications now slide in instead of just simply appearing on-screen.
+### Fixes
+- Added more arrow key navigation destinations and missing arrow key navigation destinations 129
+- Clickables now have the `pointer` cursor instead of the `default` cursor, allowing clear distinction of what can/can't be clicked. ([#130](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/130))
+- Other bug fixes that I forgot lol ([#117](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/117))
+### Miscellaneous Changes
+- General refactoring of codebase and components. ([#112](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/112), [#114](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/114), [#115](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/115), [#116](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/116), [#118](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/118),[ #119](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/119), [#122](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/122))
+- Better accessability ([#131](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/131))
+- Updated test suites ([#132](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/132))
+- Updated dependencies, including but not limited to: updating PixiJS to version 8.
+  
+---
 ## 0.4.12
 2024-11-24
 
