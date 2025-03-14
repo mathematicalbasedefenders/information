@@ -12,7 +12,7 @@
 - Changed how opponent playfields are rendered in (Default) Multiplayer mode. ([#127](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/127))
 - Toast notifications now slide in instead of just simply appearing on-screen.
 ### Fixes
-- Added more arrow key navigation destinations and missing arrow key navigation destinations 129
+- Added more arrow key navigation destinations and missing arrow key navigation destinations ([#129](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/129))
 - Clickables now have the `pointer` cursor instead of the `default` cursor, allowing clear distinction of what can/can't be clicked. ([#130](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/130))
 - Other bug fixes that I forgot lol ([#117](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/117))
 ### Miscellaneous Changes
