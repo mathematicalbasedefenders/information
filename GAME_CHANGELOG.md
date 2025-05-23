@@ -1,3 +1,41 @@
+## 0.5.0-rc.1
+### New Features
+- Added the Replay System, now you can watch replays of your games without having to screen record your screen yourself! ([#134](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/134), [#135](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/135))
+  - For a Singleplayer game:
+    - A replay will be saved if it meets all of the following conditions:
+      - The player is logged in and is not a Guest.
+      - The game was played on the Easy Singleplayer or Standard Singleplayer mode.
+      - The game was played to the end such that the game over screen is shown.
+    - If all of these conditions are met, on the Game Over screen, the game's Replay ID will be shown. 
+  - For a Multiplayer game:
+    - A replay will be saved if it meets all of the following conditions:
+      - At least one player is logged in (not a Guest).
+    - If all of these conditions are met, after the game, a message will be sent with the Replay ID. Note that everyone (including Guests) are included in the replay.
+  - To view a replay:
+    1. Click on the new Archive button on the main menu.
+    2. Enter the Replay ID of the game you wish to view.
+    3. Basic replay information will be shown:
+        - For a Singleplayer game: the stats will be shown.
+        - For a Multiplayer game: the ranking and number of players will be shown.
+    4. For a Singleplayer game, you can view the replay, for a multiplayer game, you can select to view from a selected player's point of view.
+  - As of 0.5.0-rc.1, do note that the replay system is experimental and will probably break.
+  - There is also a rate limit on how many replays you can fetch within a time period.
+  - Additionally, only lookup by Replay ID is available. Because of that, I (@mistertfy64) will be allowing users to manually request their Replay IDs tied to themselves by asking me. 
+### Changes
+- Background images on buttons are now icons instead of images.
+  - Additionally, more buttons now have icons on their backgrounds.
+- Changed Node.js version to LTS (as of May 23, 2025).
+- Rank color for Administrator is now `#ff0000`.
+- Made opponent playfields smaller and scale more smaller.
+- More internal changes that I forgot or something.
+### Fixes
+- Sliding score gain indicators now actually fade during sliding up.
+- Fixed chat overflowing behavior.
+- More fixes that I forgot or something.
+
+This took a while! If you like the game or the update, consider [giving me a donation on GitHub Sponsors](https://github.com/sponsors/mistertfy64)?
+
+---
 ## 0.4.13
 2025-03-13
 
