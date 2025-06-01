@@ -1,4 +1,15 @@
+## 0.5.0-rc.2
+2025-06-01
+
+### New Features
+- Added new code to attempt to prevent input "flickering" on slower connections. Note that this may not work.
+### Changes
+- Replay IDs are now also saved along with game data to a user upon a new personal best.
+
+---
 ## 0.5.0-rc.1
+2025-05-23
+
 ### New Features
 - Added the Replay System, now you can watch replays of your games without having to screen record your screen yourself! ([#134](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/134), [#135](https://github.com/mathematicalbasedefenders/play.mathematicalbasedefenders.com/pull/135))
   - For a Singleplayer game:
