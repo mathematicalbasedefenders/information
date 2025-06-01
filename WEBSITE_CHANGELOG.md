@@ -1,3 +1,15 @@
+## 0.6.4
+2025-06-01
+### Fixes
+- Fixed mail content.
+
+---
+## 0.6.3
+2025-03-22
+### Changes
+- Changed how e-mails are sent.
+
+---
 ## 0.6.2
 2025-02-14
 ### Fixes:
