@@ -1,3 +1,10 @@
+## 0.5.0-rc.3
+2025-06-02
+
+### New Features
+- Added (Replay) "Quick Links": Users can now optionally insert a replayID query string parameter at the end of the URL to immediately fetch a replay upon opening screen exit.
+
+---
 ## 0.5.0-rc.2
 2025-06-01
 
