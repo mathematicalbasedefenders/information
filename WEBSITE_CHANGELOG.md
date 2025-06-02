@@ -1,3 +1,9 @@
+## 0.6.5
+2025-06-02
+### Changes
+- Leaderboards now also show replay link associated with the game.
+
+---
 ## 0.6.4
 2025-06-01
 ### Fixes
