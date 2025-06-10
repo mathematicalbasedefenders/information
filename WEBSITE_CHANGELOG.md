@@ -1,3 +1,9 @@
+## 0.6.6
+2025-06-10
+### Changes
+- Made it more clear when a registration is complete, an e-mail address confirmation is complete, or a password reset/change is complete by making a seperate page for each action instead of just an `alert()`.
+
+---
 ## 0.6.5
 2025-06-02
 ### Changes
