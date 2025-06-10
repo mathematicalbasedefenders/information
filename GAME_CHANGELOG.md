@@ -1,3 +1,14 @@
+## 0.5.0-rc.4
+2025-06-10
+### Features
+- Input area now flashes green when an enemy is killed.
+  - You can turn this off in the settings if you don't like it.
+### Changes
+- Internal code changes.
+### Fixes
+- Fixed some grammar and punctuation issues.
+
+---
 ## 0.5.0-rc.3
 2025-06-02
 
