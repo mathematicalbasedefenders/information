@@ -1,3 +1,10 @@
+## 0.5.0-rc.5
+2025-06-11
+### Fixes
+- Getting a score of 0 with a previous score of 0 personal best is no longer a new personal best.
+- Replays now work correctly with `NumpadSubtract` keys.
+
+---
 ## 0.5.0-rc.4
 2025-06-10
 ### Features
