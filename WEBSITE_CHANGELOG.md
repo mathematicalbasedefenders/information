@@ -1,3 +1,9 @@
+## 0.6.7
+2025-06-11
+### Fixes
+- Ties in scores on leaderboards are now resolved correctly (earlier submission gets higher spot)
+
+---
 ## 0.6.6
 2025-06-10
 ### Changes
