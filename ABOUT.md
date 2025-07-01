@@ -55,8 +55,6 @@ If an enemy's text is an integer (not a math problem), you must type the integer
 
 If an enemy's text is a math problem, you must solve the math problem, then type the answer to the math problem, then submit it as your answer.
 
-<hr>
-
 ### Examples
 | Enemy Text | What to Type | Explanation
 | --- | --- | --- |
@@ -83,7 +81,6 @@ You can either use the number-row or the number-pad on your keyboard to type in 
 
 For mobile and/or touchscreen devices, or for devices with no keyboard, there is a on-screen (virtual) keyboard, accessible at the green button in the bottom left corner's menu. You can increase or decrease the height of the on-screen keyboard with the `+H` or `-H` buttons respectively to match your preferred height.
 
-<hr>
 
 ### Input Constraints
 
@@ -121,7 +118,6 @@ Enemy text can either be integer, an addition math problem, a subtraction math p
 ## Modes
 Mathematical Base Defenders currently has 4 game modes. Easy Singleplayer, Standard Singleplayer, Custom Singleplayer, and Default Multiplayer. More will be added in the future.
 
-<hr>
 
 ### Singleplayer
 
@@ -131,7 +127,6 @@ There are no penalties for incorrect/invalid answers.
 
 You get `100 + max(0, (sPosition - 0.5) * 50) * max(1, combo * 0.1 + 1)` points for killing an enemy.
 
-<hr>
 
 #### Additional Information for Custom Singleplayer
 
@@ -157,13 +152,11 @@ There is a penalty for invalid/incorrect answers. If you submit an invalid or an
 
 Randomly generated enemies are the same for every player in a multiplayer room. Default Multiplayer uses the same speed settings as Standard Singleplayer.
 
-<hr>
 
 #### Multiplayer Enemy Stock
 
 Once enemies land into a player's stock, they do not immediately spawn yet.
 
-<hr>
 
 ##### Spawning
 
@@ -171,7 +164,6 @@ Enemies in stock spawn when the owner of the stock submits an incorrect (a valid
 
 Enemies in stocks spawn at `sPosition = 1`.
 
-<hr>
 
 ##### Cancelling
 
@@ -183,13 +175,9 @@ When killing an enemy, if there are enemies in your stock, the enemies that are 
 
 ## Technical Details
 
-<hr>
-
 ### Score Formula
 
 There are two variables in the score/attack formula for Singleplayer/Multiplayer mode respectively. The variables are `combo` and `sPosition`.
-
-<hr>
 
 #### `combo`
 
@@ -201,8 +189,6 @@ Note that `combo` starts at `-1`, which means that you have to kill 2 enemies to
 
 When your timer runs out, the combo resets back to `-1`.
 
-<hr>
-
 #### `sPosition`
 Due to the number of different window dimensions this game can be played on, calculating how far an enemy is from your base from the number of pixels on your screen would not lead to consistent results. 
 
@@ -210,7 +196,7 @@ As such, a measurement called `sPosition` is created. When an enemy first spawns
 
 <hr>
 
-### Implementation
+## Implementation
 Mathematical Base Defenders is written primarily using TypeScript. 
 
 It also uses `Node.js` for server-side code, `uWebSockets.js` for bidirectional communication of game data, and `PixiJS` for drawing graphics.
