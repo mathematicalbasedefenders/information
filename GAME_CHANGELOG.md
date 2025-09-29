@@ -1,3 +1,55 @@
+## 0.5.0-rc.7
+2025-09-29
+### New Features
+- Custom Multiplayer Rooms are now implemented.
+  - Players can now create Custom Multiplayer rooms, and there is (currently) no limit on the amount of rooms allowed in the game.
+    - Players can also join Custom Multiplayer rooms (that are public).
+    - Players are still restricted to being only in 1 room per player at a time.
+  - Chat commands are now available. They can be used in Custom Multiplayer rooms. They can be used to view and set information/settings. Type `/?` or `/help` to see the command list.
+    -  Some commands can only be ran by the room's host. Generally these are "control" commands, such as `/start` to start game or `/set` to change room settings.
+      - The `/set` commands use the same restrictions as Custom Singleplayer.
+  - Custom Multiplayer Rooms do not gives statistics (e.g. multiplayer games played/won, experience points) nor get saved as a replay (even if an authenticated player is in the room).
+  - The Default Multiplayer Room is still available.
+  - UX/UI subject to change or (more likely) additions.
+  - Creation/joining of rooms are not restricted to authenticated users. All players (regardless of guest/authenticated) can create, join, and chat in multiplayer rooms.
+    - There may be restrictions in the future for guests and/or a subset of authenticated users if this gets abused. 
+
+### Changes
+- Authenticated users "small display" (the one on the top right) usernames are now colorized along with Rank (if you have one) as well.
+- You can now press `Enter` to send a chat message instead of having to move/click the "Send" button.
+- Standarized monospace font.
+  - Generally most (or all) places that have monospace font will now use `JetBrains Mono`. 
+  - More text areas now use the monospaced font as well.
+- 404 pages now look more proper (not something like "please tell mistertfy64 to finish this").
+- Other general changes.
+- Internal code style refactoring changes.
+
+### Fixes
+- Brought back input limit of 8 (that I accidentally may have removed).
+- General layout fixes.
+- Prevented many edge "cases" from happening.
+  - One such example is that focus now gets reset upon opening/closing chat tray.
+- Use correct numbers for constants. 
+- Other bug fixes.
+
+
+Please consider supporting the development of this game! No need to actually donate money to me ([but you still can if you want to!](https://github.com/sponsors/mistertfy64)) With more responsibilties in daily life coming up, I (@mistertfy64) may not be able to devote all my time in developing, administerting, checking for post-release bugs, or marketing! So if you can, try to spread the fact this game exists by telling others (in a reasonable way)! 
+
+If you do find a bug or an issue, or have any suggestions and/or feature requests, please do tell me, either by opening an issue or by telling me directly! I generally read all my messages that are directed to me somewhat clearly, but I may not be able to respond to all of them. If you think I missed yours, feel free to tell me!
+
+I also accept contributions to this game! Feel free to open a pull request, and I'll take a look at it!
+
+---
+## 0.5.0-rc.6
+2025-07-29
+### Features
+- Upgraded replay viewer. You can now jump to a specific point, or press arrow keys to jump forwards/backwards by 5s.
+- General UI improvements.
+### Fixes
+- General bug fixes.
+- Reorganization of CSS files.
+
+---
 ## 0.5.0-rc.5
 2025-06-11
 ### Fixes
