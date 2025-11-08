@@ -1,3 +1,9 @@
+## 0.6.8
+2025-11-08
+### Changes
+- Changed footer URLs to use more up-to-date domains.
+
+---
 ## 0.6.7
 2025-06-11
 ### Fixes
