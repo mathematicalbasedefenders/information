@@ -688,4 +688,4 @@ Fixed a bug with restoring settings.
 2021-09-22
 
 Initial release of the web version of Mathematical Base Defenders.
-<details>
+</details>
