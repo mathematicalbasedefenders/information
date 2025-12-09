@@ -1,3 +1,18 @@
+## 0.7.1
+2025-12-09
+### Fixes
+- Hotfix for version `0.7.0`.
+
+---
+## 0.7.0
+2025-12-09
+### Changes
+- Changed website architecture.
+
+### Fixes
+- Made buttons more consistent across various browser settings.
+
+---
 ## 0.6.8
 2025-11-08
 ### Changes
