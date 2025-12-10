@@ -1,3 +1,13 @@
+## 0.5.0-rc.8
+2025-12-10
+### Fixes
+- Fixed `NumpadEnter` not working to submit answer.
+- Fixed inconsistent layouts (removed unsupported CSS value) on Firefox.
+- Fixed 404's page font
+- Added a message clarifying background URL error.
+- Added a message clarifying log in process if playing as Guest.
+
+---
 ## 0.5.0-rc.7
 2025-09-29
 ### New Features
