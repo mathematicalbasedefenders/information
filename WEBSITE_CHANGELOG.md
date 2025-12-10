@@ -1,3 +1,9 @@
+## 0.7.2
+2025-12-10
+### Fixes
+- Fixed homepage layout (particularly for smaller devices).
+
+---
 ## 0.7.1
 2025-12-09
 ### Fixes
