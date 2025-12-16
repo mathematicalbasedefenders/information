@@ -1,4 +1,12 @@
 ## 0.7.2
+2025-12-16
+
+### Fixes
+- API fixes
+- CSS layout fixes
+
+---
+## 0.7.2
 2025-12-10
 ### Fixes
 - Fixed homepage layout (particularly for smaller devices).
