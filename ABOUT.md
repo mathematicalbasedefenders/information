@@ -212,10 +212,10 @@ Contributing also gives a special rank to your user account.
 
 ## Social Media
 Mathematical Base Defenders is also on social media!
-- Discord Server: [https://discord.gg/pDTZvrTXm9](https://discord.gg/pDTZvrTXm9) 
+- Discord Server: [https://goto.mistertfy64.com/mbddc](https://goto.mistertfy64.com/mbddc)
 - Facebook: [https://facebook.com/mathematicalbasedefenders](https://facebook.com/mathematicalbasedefenders)
 - Instagram: [https://instagram.com/mathematicalbasedefenders](https://instagram.com/mathematicalbasedefenders)
-- X (Twitter): [https://twitter.com/MathematicalBD](https://twitter.com/MathematicalBD)
+- X (Twitter): [https://x.com/MathematicalBD](https://x.com/MathematicalBD)
 
 <hr>
 
