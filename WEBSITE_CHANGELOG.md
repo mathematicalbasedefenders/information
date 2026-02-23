@@ -1,3 +1,9 @@
+## 0.7.4
+2026-02-23
+### Changes
+- Updated some dependencies.
+
+---
 ## 0.7.3
 2025-12-16
 
