@@ -6,14 +6,14 @@ Updated for Game Version `0.5.0-rc.6`.
 
 This webpage's text is generated from a [text file in one of the repositories in this game's GitHub Organization](https://github.com/mathematicalbasedefenders/information/blob/main/ABOUT.md).
 
-<hr>
+---
 
 ## Welcome
 Welcome to Mathematical Base Defenders! Mathematical Base Defenders is a game playable on a web browser that tests your mental math speed. 
 
 Mathematical Base Defenders has Singleplayer and Multiplayer modes and other supplementary features such as leaderboards and replays.
 
-<hr>
+---
 
 ## Authentication
 
@@ -27,7 +27,7 @@ The registration form asks for your e-mail address, username and password.
 
 E-mail addresses are used for confirming an account's owner authenticity to reset an account's password (in case of lost/forgotten passwords).
 
-<hr>
+---
 
 ### Logging into your Account
 
@@ -37,7 +37,7 @@ Note that after exiting the opening screen (i.e., closing the login modal), you 
 
 The login modal/opening screen can be brought back by refreshing the page, and you can log in again.
 
-<hr>
+---
 
 ## Basic Gameplay
 
@@ -74,7 +74,7 @@ In non-custom Modes, your base will start with 100 health points and each enemy 
 
 The game is over once your base health reaches or goes below 0 health points. At this point, you can play again.
 
-<hr>
+---
 
 ## Input
 You can either use the number-row or the number-pad on your keyboard to type in your numbers. For enemies that have a negative answer, you can also type in the minus sign. (`-`). You can also press `Backspace` to delete your last entered digit, and you can either press `Enter` or `Space` to submit in your answer.
@@ -86,7 +86,7 @@ For mobile and/or touchscreen devices, or for devices with no keyboard, there is
 
 Your answer will only "correctly" submit and your input bar will be cleared only if you submit a valid and correct answer. Your answer must already be "simplified", fot example, `45` and `-32` are acceptable, but not `100-50` for `50` or `--33` for `33`.
 
-<hr>
+---
 
 ## Enemies
 Enemies have a predetermined chance of spawning every predetermined time interval.
@@ -113,7 +113,7 @@ Enemy text can either be integer, an addition math problem, a subtraction math p
 | Multiplication Math Problem | 1 out of 7
 | Division Math Problem | 1 out of 7
 
-<hr>
+---
 
 ## Modes
 Mathematical Base Defenders currently has 4 game modes. Easy Singleplayer, Standard Singleplayer, Custom Singleplayer, and Default Multiplayer. More will be added in the future.
@@ -136,7 +136,7 @@ You can hover over each field to see a tooltip that explain what it does. All ti
 
 To prevent abuse, there is a limit on how extreme the parameters can be. If you set a value to be too extreme, the game will refuse to start telling you the offending value(s). Additionally, no experience points will be awarded in Custom Singleplayer games.
 
-<hr>
+---
 
 ### Multiplayer
 
@@ -171,7 +171,7 @@ You can "cancel" (reduce) the amount of enemies in your stock by killing your cu
 
 When killing an enemy, if there are enemies in your stock, the enemies that are supposed to be "sent" to other players will be used to cancel your stock at a rate of 1 to 1. However, if you successfully cancel your stock (i.e., `stock = 0`), the remaining enemies will be sent to other players, therefore adding to their stock.
 
-<hr>
+---
 
 ## Technical Details
 
@@ -194,21 +194,21 @@ Due to the number of different window dimensions this game can be played on, cal
 
 As such, a measurement called `sPosition` is created. When an enemy first spawns, that is, when the enemy is at the topmost position, its `sPosition` is `1`, and when an enemy reaches your base, its `sPosition` is `0`.
 
-<hr>
+---
 
 ## Implementation
 Mathematical Base Defenders is written primarily using TypeScript. 
 
 It also uses `Node.js` for server-side code, `uWebSockets.js` for bidirectional communication of game data, and `PixiJS` for drawing graphics.
 
-<hr>
+---
 
 ## Contributing
 Contributions and comments are welcome. File an issue or open a pull request, and the maintainer will take a look at it. 
 
 Contributing also gives a special rank to your user account.
 
-<hr>
+---
 
 ## Social Media
 Mathematical Base Defenders is also on social media!
@@ -217,7 +217,7 @@ Mathematical Base Defenders is also on social media!
 - Instagram: [https://instagram.com/mathematicalbasedefenders](https://instagram.com/mathematicalbasedefenders)
 - X (Twitter): [https://x.com/MathematicalBD](https://x.com/MathematicalBD)
 
-<hr>
+---
 
 ## Donations
 Donations are always welcome! Either sponsor mistertfy64 through GitHub or donate to him through Patreon.
