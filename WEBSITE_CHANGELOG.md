@@ -1,3 +1,13 @@
+## 0.7.5
+2026-02-26
+### Changes
+- Used consistent markdown parser across all files.
+
+### Fixes
+- Fixed page layouts.
+- Removed unnecessary dependencies.
+
+---
 ## 0.7.4
 2026-02-23
 ### Changes
