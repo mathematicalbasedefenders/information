@@ -27,8 +27,6 @@ The registration form asks for your e-mail address, username and password.
 
 E-mail addresses are used for confirming an account's owner authenticity to reset an account's password (in case of lost/forgotten passwords).
 
----
-
 ### Logging into your Account
 
 To log in to your account, go to the play subdomain [https://play.mathematicalbasedefenders.com](https://play.mathematicalbasedefenders.com), and you will be asked to log in with your username and password. 
