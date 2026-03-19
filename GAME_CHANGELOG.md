@@ -1,3 +1,22 @@
+## 0.5.0-rc.9
+2026-03-19
+### New Features
+- Possible target values of enemies will now expand based on game progress from `[-100, 100]` up to `[-999, 999]`:
+  - In a game, when an enemy spawns, the possible target values of enemies are now `[-100-x, 100+x]`, where `x` is...
+    - `0` for Easy Singleplayer.
+    - `10*level` for Standard Singleplayer and Custom Singleplayer.
+    - `Math.floor(t/1250)` for Default Multiplayer and Custom Multiplayer, where `t` is the elapsed time of the game in milliseconds.
+  - A future update will allow tweaking of this in Custom modes.
+  - It is still guaranteed that the target value will be an integer.
+
+### Fixes
+- Inputs with leading zeroes (e.g., `-05` or `00023`) are now considered to be invalid.
+  - This will release enemy stock in Multiplayer modes.
+- A screen notice to enable JavaScript will now appear when accessing the game while having JavaScript disabled.
+- Disabled text highlighting of some UI elements (that shouldn't be there in the first place).
+- General server-side code refactoring.
+
+---
 ## 0.5.0-rc.8
 2025-12-10
 ### Fixes
