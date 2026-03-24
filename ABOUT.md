@@ -103,6 +103,7 @@ When an enemy spawns, the range of the enemy's requested value is:
 | Custom Singleplayer | `-100` | `100` |
 | Default Multiplayer | `max(-(100+10*floor(T/1250)), -999)` | `min(100+10*floor(T/1250), 999)` |
 | Custom Multiplayer | `max(-(100+10*floor(T/1250)), -999)` | `min(100+10*floor(T/1250), 999)` |
+
 In this table, `L` is the level in Singleplayer mode and `T` is the time since game start in milliseconds in Multiplayer mode.
 
 As you progress further through a singleplayer game, the time between enemy spawn chance intervals will be decreased by 1.25% compounding per level. The chance will stay the same.
