@@ -1,8 +1,8 @@
 **Disclaimer: While Mathematical Base Defenders may help with mental math skills, Mathematical Base Defenders is NOT a substitute for a legitimate math tutor.**
 
-Latest Revision: July 1, 2025.
+Latest Revision: March 24, 2026.
 
-Updated for Game Version `0.5.0-rc.6`.
+Updated for Game Version `0.5.0-.rc.9.1`.
 
 This webpage's text is generated from a [text file in one of the repositories in this game's GitHub Organization](https://github.com/mathematicalbasedefenders/information/blob/main/ABOUT.md).
 
@@ -41,11 +41,11 @@ The login modal/opening screen can be brought back by refreshing the page, and y
 
 Enemies will fall from the top to your "base".
 
-Each enemy has text which is either an integer, an addition math problem, a subtraction math problem, a multiplication math problem, or a division math problem. If an enemy's text is a math problem, both operands of a math problem will be integers.
+Each enemy has text ("requested value") which is either an integer, an addition math problem, a subtraction math problem, a multiplication math problem, or a division math problem. If an enemy's text is a math problem, both operands of a math problem will be integers.
 
-The integers and problems are randomly generated. However, the integer/answer to a problem will fall within a range (`-100` to `100`, inclusive).
+The integers and problems are randomly generated. However, the integer/answer to a problem will fall within a range of possible values.
 
-As of Game Version `0.5.0-rc.6`, it is guaranteed that the if the enemy's text is an integer, it will be between `-100` and `100` (inclusive), and if the enemy's text is a math problem, the answer will be between `-100` and `100`. Additionally, answers to division problems will always be an integer (i.e., no decimals), and there will not be any problems that ask you to divide an integer by zero.
+As of Game Version `0.5.0-.rc.9.1`, it is guaranteed that the if the enemy's text is an integer, it will be between the range of the possible values, and if the enemy's text is a math problem, the answer will be in the range of the possible values as well. Additionally, answers to division problems will always be an integer (i.e., no decimals), and there will not be any problems that ask you to divide an integer by zero.
 
 The main objective of Mathematical Base Defenders is to type the number on the enemies or solve the math problems on the enemies to kill them before the enemies come and reach your "base" (the line).
 
@@ -94,6 +94,16 @@ Enemies have a predetermined chance of spawning every predetermined time interva
 | Easy Singleplayer | 150ms | 7.5% |
 | Standard Singleplayer | 100ms | 10% |
 | Default Multiplayer | 100ms | 10% |
+
+When an enemy spawns, the range of the enemy's requested value is:
+| Mode | Lowest Value | Highest Value |
+| --- | --- | --- |
+| Easy Singleplayer | `-100` | `100` |
+| Standard Singleplayer | `max(-(100+10*L), -999)` | `min(100+10*L, 999)` |
+| Custom Singleplayer | `-100` | `100` |
+| Default Multiplayer | `max(-(100+10*floor(T/1250)), -999)` | `min(100+10*floor(T/1250), 999)` |
+| Custom Multiplayer | `max(-(100+10*floor(T/1250)), -999)` | `min(100+10*floor(T/1250), 999)` |
+In this table, `L` is the level in Singleplayer mode and `T` is the time since game start in milliseconds in Multiplayer mode.
 
 As you progress further through a singleplayer game, the time between enemy spawn chance intervals will be decreased by 1.25% compounding per level. The chance will stay the same.
 
