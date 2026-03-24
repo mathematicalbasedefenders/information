@@ -2,7 +2,7 @@
 
 Latest Revision: March 24, 2026.
 
-Updated for Game Version `0.5.0-.rc.9.1`.
+Updated for Game Version `0.5.0-rc.9.1`.
 
 This webpage's text is generated from a [text file in one of the repositories in this game's GitHub Organization](https://github.com/mathematicalbasedefenders/information/blob/main/ABOUT.md).
 
@@ -45,7 +45,7 @@ Each enemy has text ("requested value") which is either an integer, an addition 
 
 The integers and problems are randomly generated. However, the integer/answer to a problem will fall within a range of possible values.
 
-As of Game Version `0.5.0-.rc.9.1`, it is guaranteed that the if the enemy's text is an integer, it will be between the range of the possible values, and if the enemy's text is a math problem, the answer will be in the range of the possible values as well. Additionally, answers to division problems will always be an integer (i.e., no decimals), and there will not be any problems that ask you to divide an integer by zero.
+As of Game Version `0.5.0-rc.9.1`, it is guaranteed that the if the enemy's text is an integer, it will be between the range of the possible values, and if the enemy's text is a math problem, the answer will be in the range of the possible values as well. Additionally, answers to division problems will always be an integer (i.e., no decimals), and there will not be any problems that ask you to divide an integer by zero.
 
 The main objective of Mathematical Base Defenders is to type the number on the enemies or solve the math problems on the enemies to kill them before the enemies come and reach your "base" (the line).
 
