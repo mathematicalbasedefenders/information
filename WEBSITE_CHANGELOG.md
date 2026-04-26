@@ -1,3 +1,10 @@
+## 0.7.6
+2026-04-26
+### Fixes
+- Calls to `api.mathematicalbasedefenders.com` now use local IP instead of calling it directly, preventing false positives on rate limiting.
+  - Requests to `mathematicalbasedefenders.com` are still rate-limited.
+
+---
 ## 0.7.5
 2026-02-26
 ### Changes
