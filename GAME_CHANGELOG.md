@@ -1,3 +1,19 @@
+## 0.5.0-rc.9.2
+2026-08-12
+### Changes
+- General build system changes (nothing on user-side)
+
+### Fixes
+- General dependency fixes
+
+
+---
+## 0.5.0-rc.9.1
+2026-03-24
+### Fixes
+- Updated build configuration so Default Multiplayer works again.
+
+---
 ## 0.5.0-rc.9
 2026-03-19
 ### New Features
