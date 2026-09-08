@@ -2,6 +2,7 @@
 2026-09-08
 ### Fixes
 - General and edge case fixes regarding registration data handling.
+- General HTML fixes.
 
 ---
 ## 0.7.6
