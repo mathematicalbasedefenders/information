@@ -1,3 +1,9 @@
+## 0.7.7
+2026-09-08
+### Fixes
+- General and edge case fixes regarding registration data handling.
+
+---
 ## 0.7.6
 2026-04-26
 ### Fixes
