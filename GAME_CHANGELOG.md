@@ -4,7 +4,7 @@
 ### Changes
 - General dependency updates
 
-----
+---
 ## 0.5.0-rc.9.2
 2026-08-12
 ### Changes
