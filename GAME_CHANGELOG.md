@@ -1,3 +1,10 @@
+## 0.5.0-rc.9.3
+2026-09-16
+
+### Changes
+- General dependency updates
+
+----
 ## 0.5.0-rc.9.2
 2026-08-12
 ### Changes
@@ -5,7 +12,6 @@
 
 ### Fixes
 - General dependency fixes
-
 
 ---
 ## 0.5.0-rc.9.1
