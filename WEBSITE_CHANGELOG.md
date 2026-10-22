@@ -1,3 +1,10 @@
+## 0.7.8
+2026-10-22
+### Fixes
+- Updated npm dependencies
+
+---
+
 ## 0.7.7
 2026-09-08
 ### Fixes
