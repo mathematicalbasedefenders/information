@@ -1,3 +1,9 @@
+## 0.5.0-rc.9.4
+2026-10-22
+### Fixes
+- Updated npm dependencies
+
+---
 ## 0.5.0-rc.9.3
 2026-09-16
 
